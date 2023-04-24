@@ -128,7 +128,9 @@ Skills: JAVA / PHP / Android / Laravel / HTML / CSS / Bootstrap / MYSQL / SQL / 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan Swarnakar)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
-![princeqr]
+<a href="https://dipanjan98.github.io/"
+                    class="btn btn-primary rounded-pill shadow-none smooth-scroll mt-2">Hire
+                    Me</a>
 
 
 ### My Work
